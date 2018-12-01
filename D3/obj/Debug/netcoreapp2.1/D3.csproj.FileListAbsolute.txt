@@ -1,0 +1,11 @@
+F:\c#.net\D3\D3\bin\Debug\netcoreapp2.1\D3.deps.json
+F:\c#.net\D3\D3\bin\Debug\netcoreapp2.1\D3.runtimeconfig.json
+F:\c#.net\D3\D3\bin\Debug\netcoreapp2.1\D3.runtimeconfig.dev.json
+F:\c#.net\D3\D3\bin\Debug\netcoreapp2.1\D3.dll
+F:\c#.net\D3\D3\bin\Debug\netcoreapp2.1\D3.pdb
+F:\c#.net\D3\D3\obj\Debug\netcoreapp2.1\D3.csprojAssemblyReference.cache
+F:\c#.net\D3\D3\obj\Debug\netcoreapp2.1\D3.csproj.CoreCompileInputs.cache
+F:\c#.net\D3\D3\obj\Debug\netcoreapp2.1\D3.AssemblyInfoInputs.cache
+F:\c#.net\D3\D3\obj\Debug\netcoreapp2.1\D3.AssemblyInfo.cs
+F:\c#.net\D3\D3\obj\Debug\netcoreapp2.1\D3.dll
+F:\c#.net\D3\D3\obj\Debug\netcoreapp2.1\D3.pdb
